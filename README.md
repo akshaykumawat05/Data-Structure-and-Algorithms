@@ -11,4 +11,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
