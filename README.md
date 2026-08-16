@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
