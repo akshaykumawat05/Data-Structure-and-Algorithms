@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
