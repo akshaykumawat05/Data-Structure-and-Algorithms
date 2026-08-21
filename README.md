@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
 |  |
 | ------- |
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
