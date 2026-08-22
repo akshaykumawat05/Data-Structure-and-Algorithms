@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
