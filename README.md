@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2090-k-radius-subarray-averages) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2090-k-radius-subarray-averages) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
