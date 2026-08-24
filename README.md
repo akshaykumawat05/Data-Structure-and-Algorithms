@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
