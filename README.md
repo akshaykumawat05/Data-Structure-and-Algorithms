@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
