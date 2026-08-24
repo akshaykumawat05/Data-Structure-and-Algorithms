@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2090-k-radius-subarray-averages) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
