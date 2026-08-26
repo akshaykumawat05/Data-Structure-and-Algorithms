@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1329-sort-the-matrix-diagonally](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
+| [1329-sort-the-matrix-diagonally](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Simulation
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1329-sort-the-matrix-diagonally](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
