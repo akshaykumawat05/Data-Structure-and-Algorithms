@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0766-toeplitz-matrix](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
@@ -187,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
