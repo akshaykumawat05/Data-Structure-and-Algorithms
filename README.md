@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0859-buddy-strings](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0859-buddy-strings) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
+| [0859-buddy-strings](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0859-buddy-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1927-sum-game) |
