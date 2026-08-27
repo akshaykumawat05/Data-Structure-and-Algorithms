@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string getMinString(vector<int> &freq){
+    string getMinString(vector<int>& freq){
         string res;
         for(int i=0; i<26; i++){
             res.append(freq[i], 'a' + i);
@@ -18,13 +18,11 @@ public:
 
         for(int i=n-1; i>=0; i--){
             int b = target[i] - 'a';
-            freq[b]++;
+            freq[target[i] - 'a']++;
 
-            if(*min_element(freq.begin(), freq.end()) < 0){
-                continue;
-            }
+            if(*min_element(freq.begin(), freq.end()) < 0) continue;
 
-            for(int j = b+1; j<26; j++){
+            for(int j=b+1; j<26; j++){
                 if(freq[j]){
                     freq[j]--;
                     target[i] = 'a' + j;
