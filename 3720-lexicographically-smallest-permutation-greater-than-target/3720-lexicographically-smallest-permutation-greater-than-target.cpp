@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string getMinString(vector<int>& freq){
+    string getMinString(vector<int> &freq){
         string res;
         for(int i=0; i<26; i++){
             res.append(freq[i], 'a' + i);
@@ -27,6 +27,7 @@ public:
                     freq[j]--;
                     target[i] = 'a' + j;
                     target.resize(i + 1);
+
                     return target + getMinString(freq);
                 }
             }
