@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
