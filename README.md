@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
