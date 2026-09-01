@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Combinatorics
@@ -234,4 +235,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
