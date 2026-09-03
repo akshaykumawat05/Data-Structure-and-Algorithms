@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0859-buddy-strings](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0859-buddy-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
