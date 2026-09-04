@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
