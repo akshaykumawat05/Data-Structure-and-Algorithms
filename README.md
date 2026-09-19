@@ -346,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
