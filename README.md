@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0443-string-compression) |
 | [0859-buddy-strings](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0859-buddy-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1422-maximum-score-after-splitting-a-string) |
