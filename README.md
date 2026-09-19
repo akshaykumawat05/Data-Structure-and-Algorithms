@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0260-single-number-iii) |
+| [0645-set-mismatch](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
