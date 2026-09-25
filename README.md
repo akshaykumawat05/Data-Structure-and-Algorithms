@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1232-check-if-it-is-a-straight-line) |
