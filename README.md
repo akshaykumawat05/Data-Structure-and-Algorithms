@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0525-contiguous-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0443-string-compression) |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1669-merge-in-between-linked-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
