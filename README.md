@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0859-buddy-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2390-removing-stars-from-a-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Combinatorics
 |  |
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
