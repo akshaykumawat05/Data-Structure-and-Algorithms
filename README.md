@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1329-sort-the-matrix-diagonally](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
