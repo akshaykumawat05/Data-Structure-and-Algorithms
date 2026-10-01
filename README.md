@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0443-string-compression) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
