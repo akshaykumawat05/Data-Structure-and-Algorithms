@@ -2,20 +2,19 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
-        int first = 0;
+        int maxi = 0;
         int second = 1;
 
-        for(auto x : nums){
-            if(x > first){
-                second = first;
-                first = x;
+        for(int i = 1; i < n; i++) {
+            if(nums[i] > nums[maxi]) {
+                second = maxi;
+                maxi = i;
             }
-            else if(x > second){
-                second = x;
+            else if(nums[i] > nums[second]) {
+                second = i;
             }
         }
 
-        return (first - 1) * (second - 1); 
-        
-    }   
+        return (nums[maxi] - 1) * (nums[second] - 1);
+    }
 };
