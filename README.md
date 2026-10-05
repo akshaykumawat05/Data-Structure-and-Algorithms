@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
