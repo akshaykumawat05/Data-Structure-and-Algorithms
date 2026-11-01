@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0263-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1232-check-if-it-is-a-straight-line) |
