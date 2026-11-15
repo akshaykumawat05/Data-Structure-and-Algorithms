@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1652-defuse-the-bomb) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1486-xor-operation-in-an-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1025-divisor-game](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1025-divisor-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/akshaykumawat05/Data-Structure-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 ## Geometry
 |  |
